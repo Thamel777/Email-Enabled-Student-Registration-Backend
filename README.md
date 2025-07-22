@@ -111,7 +111,7 @@ Registers a student and sends a confirmation email.
 Hello John Doe,
 Your registration for AI & IoT is confirmed.
 Student ID: STU1729347283951
-Thank you for registering with DETZ Global Pvt Ltd.
+Thank you for registering with ABC Institute.
 ```
 
 ---
