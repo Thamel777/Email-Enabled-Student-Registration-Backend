@@ -99,8 +99,7 @@ Registers a student and sends a confirmation email.
 ## 📸 Deliverables
 - ✅ Backend source code
 - ✅ Styled confirmation email sent
-- ✅ Tested with Thunder Client/Postman
-- ✅ Demo video (screen recording)
+- ✅ Tested with Thunder Client
 
 ---
 
@@ -118,4 +117,4 @@ Thank you for registering with DETZ Global Pvt Ltd.
 ---
 
 ## 👨‍💻 Developed By
-**Thamel Nimsara** – DETZ Internship Program – July 2025
+**Nimsara Thamel** – DETZ Internship Program – July 2025
